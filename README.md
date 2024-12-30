@@ -1,7 +1,6 @@
 - Hi i'm Carlos Rodriguez Saavedra 👋
 - I study a dual bacherlor in computer science and engineering at UC3M
 - I am currently studying at SDSU
-- I am interested in cybersecurity and Machine Learning
 
 <!--
 **carlssrodriguez/carlssrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
