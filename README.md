@@ -1,5 +1,9 @@
-- 👋 My name is Carlos Rodriguez
-- 🔭 Dual Bachelor's degree in Computer Science and Engineering and Business Administration, at Universidad Carlos III de Madrid
-- 🌱 Currently studying at San Diego State University
-- 💡 I am interested in enhancing my career by advancing in cybersecurity, AI, and full stack development, while integrating software and hardware solutions
-- 📫 How to reach me: www.linkedin.com/in/jose-carlos-rodriguez-saavedra
+## Hi, I'm Carlos Rodríguez 👋
+
+Computer Science and Business Administration graduate from Universidad Carlos III de Madrid, with international experience at San Diego State University.
+
+I currently work in Accenture’s Data & AI Strategy team, combining artificial intelligence, data, technology, and business strategy.
+
+I'm especially interested in agentic AI, cybersecurity, software engineering, and technology-driven business transformation. I learn by building practical projects with technologies such as Python, FastAPI, RAG, vector search, function calling, Pydantic, and Docker.
+
+📫 [LinkedIn](https://www.linkedin.com/in/jcarlosrodriguezs)
