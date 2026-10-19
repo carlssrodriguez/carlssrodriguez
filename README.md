@@ -1,6 +1,6 @@
 ## Hi, I'm Carlos Rodriguez 👋
 
-Computer Science and Business Administration graduate from Universidad Carlos III de Madrid, with international experience in Toulouse, San Diego and London.
+Computer Science & Engineering and Business Administration graduate from Universidad Carlos III de Madrid, with international experience in Toulouse, San Diego and London.
 
 I currently work in Accenture’s Data & AI Strategy team, combining artificial intelligence, data, technology, and business strategy.
 
